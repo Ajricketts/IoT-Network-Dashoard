@@ -108,7 +108,7 @@ const Settings = () => {
                                 For Help and support, please see https://github.com/Ajricketts/IoT-Network-Dashoard for more documentation
                                 and support
                             </Typography>
-                            <Typography variant="h6" fontWeight="400" mb="100px">
+                            <Typography variant="h6" fontWeight="400" mb="80px">
                                 If you require further assistance, reach out at https://www.linkedin.com/in/aj-ricketts/ 
                                 or at ajricketts@cmail.carleton.ca
                             </Typography>
