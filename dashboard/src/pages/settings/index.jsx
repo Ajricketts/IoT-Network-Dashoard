@@ -105,7 +105,7 @@ const Settings = () => {
                         <Widget>
                             <Typography variant="h4" fontWeight="600" mb="5px">Help and Support</Typography>
                             <Typography variant="h6" fontWeight="400" mb="10px">
-                                For Help and support, please see ENTER GITHUB REPO HERE for more documentation
+                                For Help and support, please see https://github.com/Ajricketts/IoT-Network-Dashoard for more documentation
                                 and support
                             </Typography>
                             <Typography variant="h6" fontWeight="400" mb="100px">
