@@ -1,0 +1,28 @@
+html, body, #root, .app, .content {
+  height: 100%;
+  width: 100%;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.app {
+  display: flex;
+  position:relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e0e0e0a8;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-track:hover {
+  background: #555;
+}
